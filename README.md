@@ -22,6 +22,10 @@ Olá, eu sou Lemuel Pires, um desenvolvedor apaixonado por tecnologia e inovaç�
 - [LinkedIn](https://www.linkedin.com/in/lemuel-pires-da-silva-72174b117)
 - [Portfólio](https://portifolio-61100.web.app/)
 
+### Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemuelpires&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemuelpires&layout=compact&theme=radical)
+
 ---
 
 ## Hi there! 👋
@@ -47,3 +51,8 @@ Hello, I'm Lemuel Pires, a developer passionate about technology and innovation.
 ### Important Links
 - [LinkedIn](https://www.linkedin.com/in/lemuel-pires-da-silva-72174b117)
 - [Portfolio](https://portifolio-61100.web.app/)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemuelpires&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemuelpires&layout=compact&theme=radical)
+
