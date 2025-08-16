@@ -14,7 +14,7 @@ Atualmente focado em projetos de **desenvolvimento de software** e sempre em bus
 
 ### 🚀 Skills & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,git,docker,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,git,docker,linux,aws,firebase, SQL Server, figma, phyton, c#, flutter, azure, html, css" />
 </p>
 
 ---
