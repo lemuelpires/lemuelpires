@@ -23,7 +23,7 @@ Olá, eu sou Lemuel Pires, um desenvolvedor apaixonado por tecnologia e inovaç�
 - [Portfólio](https://portifolio-61100.web.app/)
 
 ### Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemuelpires&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lemuelpires&show_icons=true&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemuelpires&layout=compact&theme=radical)
 
 ---
