@@ -1,58 +1,67 @@
 ## Olá! 👋
 
-<!--
-**lemuelpires/lemuelpires** é um ✨ _repositório especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+### Sobre Mim  
+Sou **Lemuel Pires**, desenvolvedor apaixonado por **tecnologia e inovação**.  
+Atualmente focado em projetos de **desenvolvimento de software** e sempre em busca de aprender e aplicar novas habilidades.
 
-Aqui estão algumas ideias para você começar:
+---
 
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como me contatar: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
--->
-
-### Sobre Mim
-Olá, eu sou Lemuel Pires, um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou focado em projetos de desenvolvimento de software e estou sempre aprendendo novas habilidades.
-
-### Links Importantes
+### 🌎 Links Importantes
 - [LinkedIn](https://www.linkedin.com/in/lemuel-pires-da-silva-72174b117)
 - [Portfólio](https://portifolio-61100.web.app/)
 
-### Estatísticas do GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lemuelpires&show_icons=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemuelpires&layout=compact&theme=radical)
+---
+
+### 🚀 Skills & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,git,docker,linux,aws" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lemuelpires&show_icons=true&theme=radical&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemuelpires&layout=compact&theme=radical"/>
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lemuelpires&theme=radical)](https://git.io/streak-stats)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=lemuelpires&color=blueviolet)
 
 ---
 
 ## Hi there! 👋
 
-<!--
-**lemuelpires/lemuelpires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me  
+I’m **Lemuel Pires**, a developer passionate about **technology and innovation**.  
+Currently focused on **software development projects**, while constantly learning and evolving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### About Me
-Hello, I'm Lemuel Pires, a developer passionate about technology and innovation. Currently, I'm focused on software development projects and always learning new skills.
-
-### Important Links
+### 🌎 Important Links
 - [LinkedIn](https://www.linkedin.com/in/lemuel-pires-da-silva-72174b117)
-- [Portfolio](https://portifolio-61100.web.app/)
+- [Portfolio](https://lemuelpires.com.br)
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemuelpires&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemuelpires&layout=compact&theme=radical)
+---
 
+### 🚀 Skills & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,git,docker,linux,aws" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lemuelpires&show_icons=true&theme=radical&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemuelpires&layout=compact&theme=radical"/>
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lemuelpires&theme=radical)](https://git.io/streak-stats)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=lemuelpires&color=blueviolet)
