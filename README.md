@@ -1,67 +1,75 @@
-## Olá! 👋
+# 👋 Olá! Sou o Lemuel Pires
 
-### Sobre Mim  
-Sou **Lemuel Pires**, desenvolvedor apaixonado por **tecnologia e inovação**.  
-Atualmente focado em projetos de **desenvolvimento de software** e sempre em busca de aprender e aplicar novas habilidades.
+Desenvolvedor focado em **tecnologia, inovação e construção de soluções eficientes**. Trabalho principalmente com desenvolvimento **full-stack**, APIs, infraestrutura cloud e aplicações modernas.
 
----
-
-### 🌎 Links Importantes
-- [LinkedIn](https://www.linkedin.com/in/lemuel-pires-da-silva-72174b117)
-- [Portfólio](https://lemuelpires.com.br/)
+Atualmente sigo evoluindo minhas habilidades em arquiteturas escaláveis, microsserviços, segurança e boas práticas de desenvolvimento.
 
 ---
 
-### 🚀 Skills & Tools
+## 🌎 Onde me encontrar
+
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/lemuelpires/](https://www.linkedin.com/in/lemuelpires/)
+* 🌐 **Portfólio:** [https://lemuelpires.com.br](https://lemuelpires.com.br)
+* ✉️ **E-mail:** [contato@lemuelpires.com.br](mailto:contato@lemuelpires.com.br)
+
+---
+
+## 🚀 Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,git,docker,linux,aws,firebase, SQL Server, figma, phyton, c#, flutter, azure, html, css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,git,docker,linux,aws,firebase,azure,figma,python,cs,flutter,html,css" />
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
+
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lemuelpires&show_icons=true&theme=radical&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemuelpires&layout=compact&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lemuelpires&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemuelpires&layout=compact&theme=radical"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lemuelpires&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lemuelpires\&theme=radical)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=lemuelpires\&color=blueviolet)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=lemuelpires&color=blueviolet)
+# 👋 Hi there! I'm Lemuel Pires
+
+Developer passionate about **technology, innovation, and scalable solutions**. My work focuses on **full-stack development**, cloud services, and building reliable applications.
+
+Always learning, always improving.
 
 ---
 
-## Hi there! 👋
+## 🌎 Find me
 
-### About Me  
-I’m **Lemuel Pires**, a developer passionate about **technology and innovation**.  
-Currently focused on **software development projects**, while constantly learning and evolving.
-
----
-
-### 🌎 Important Links
-- [LinkedIn](https://www.linkedin.com/in/lemuel-pires-da-silva-72174b117)
-- [Portfolio](https://lemuelpires.com.br)
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/lemuelpires/](https://www.linkedin.com/in/lemuelpires/)
+* 🌐 **Portfolio:** [https://lemuelpires.com.br](https://lemuelpires.com.br)
+* ✉️ **E-mail:** [contato@lemuelpires.com.br](mailto:lemuelpires@gmail.com)
 
 ---
 
-### 🚀 Skills & Tools
+## 🚀 Skills & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,git,docker,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,git,docker,linux,aws,firebase,azure,figma,python,cs,flutter,html,css" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lemuelpires&show_icons=true&theme=radical&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemuelpires&layout=compact&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lemuelpires&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemuelpires&layout=compact&theme=radical"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lemuelpires&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lemuelpires\&theme=radical)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=lemuelpires\&color=blueviolet)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=lemuelpires&color=blueviolet)
+Só me dizer e ajusto na hora.
