@@ -8,7 +8,7 @@ Atualmente focado em projetos de **desenvolvimento de software** e sempre em bus
 
 ### 🌎 Links Importantes
 - [LinkedIn](https://www.linkedin.com/in/lemuel-pires-da-silva-72174b117)
-- [Portfólio](https://portifolio-61100.web.app/)
+- [Portfólio](https://lemuelpires.com.br/)
 
 ---
 
