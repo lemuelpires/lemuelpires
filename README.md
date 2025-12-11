@@ -10,7 +10,7 @@ Atualmente sigo evoluindo minhas habilidades em arquiteturas escaláveis, micros
 
 * 🔗 **LinkedIn:** [https://www.linkedin.com/in/lemuelpires/](https://www.linkedin.com/in/lemuelpires/)
 * 🌐 **Portfólio:** [https://lemuelpires.com.br](https://lemuelpires.com.br)
-* ✉️ **E-mail:** [contato@lemuelpires.com.br](mailto:contato@lemuelpires.com.br)
+* ✉️ **E-mail:** [contato@lemuelpires.com.br](mailto:lemuelpires@gmail.com)
 
 ---
 
