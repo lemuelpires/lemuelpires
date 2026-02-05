@@ -69,7 +69,3 @@ Always learning, always improving.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lemuelpires\&theme=radical)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lemuelpires\&color=blueviolet)
-
----
-
-Só me dizer e ajusto na hora.
